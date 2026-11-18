@@ -11,7 +11,7 @@
 
                 <div class="logo">
                     <a href="index.php" class="full-block-link"></a>
-                    <img src="img/mbtech-logo.png" alt="MBtech" width="150px">
+                    <img src="img/newlogo.png" alt="MBtech" width="150px">
                     <div class="logo-text">
 
                     </div>
@@ -171,8 +171,10 @@
             <div class="contacts-item">
                 <img src="img/contact6.png" alt="phone">
                 <div class="content">
-                    <a href="#" class="title">Noida(UP), India</a>
-                    <p class="sub-title">C-121, Ithum, Sector 62,<br>
+                    <a href="#" class="title">M.B. Technologies </a>
+                    <p class="sub-title">401, Pooja Complex,
+Veer Savarkar Block, 
+Shakarpur, Delhi - 110092<br>
 </p>
                 </div>
             </div>

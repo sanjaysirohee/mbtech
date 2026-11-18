@@ -133,9 +133,10 @@ include ('head.php');
                         <div class="contacts-item">
                             <img src="img/contact7.png" alt="phone">
                             <div class="content">
-                                <a href="#" class="title">Noida(UP), India</a>
-                                <p class="sub-title">C-121, Ithum, Sector 62,<br>
-Noida - 201301 U.P. India</p>
+                                <a href="#" class="title">M.B. Technologies </a>
+                                <p class="sub-title">401, Pooja Complex,
+Veer Savarkar Block, 
+Shakarpur, Delhi - 110092</p>
                             </div>
                         </div>
                     </div>
@@ -171,22 +172,7 @@ Noida - 201301 U.P. India</p>
 <!-- Google map -->
 
 
-<div class="section">
-    <div id="map"></div>
-    <script>
-        var map;
-        function initMap() {
-            map = new google.maps.Map(document.getElementById('map'), {
-                center: {lat: 28.589587, lng: 77.314451},
-                zoom: 19,
-                scrollwheel: false//set to true to enable mouse scrolling while inside the map area
-            });
-        }
-    </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBESxStZOWN9aMvTdR3Nov66v6TXxpRZMM&callback=initMap"
-            async defer></script>
 
-</div>
 
 <!-- End Google map -->
 
